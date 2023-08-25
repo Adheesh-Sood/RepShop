@@ -1,0 +1,64 @@
+.parent {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    border-bottom: 1px solid #656565;
+  }
+  .child {
+    display: inline-block;
+    padding: 1rem 1rem;
+
+  }
+  .child2{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 1000px;
+
+  }
+  h1{
+    color:#656565;
+    font-family: "Open Sans", sans-serif;
+  }
+  a{
+    vertical-align: middle;
+    color:#656565;
+    font-family: "Open Sans", sans-serif;
+    font-size: 19px;
+    border: none;
+  }
+  h2{
+    color:#000;
+    text-align: center;
+    font-size: 65px;
+    font-family: "Open Sans", sans-serif;
+
+
+  }
+img{
+    width: 250px;
+    height: 250pxs;
+
+}
+button{
+    background-color: transparent;
+    border:2px solid #000; 
+    border-radius: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #000;
+    color:white;
+}
+.main{
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+.airpods{
+    display: inline-block;
+    padding: 1rem 1rem;
+    padding-right: 40px;;
+
+}
