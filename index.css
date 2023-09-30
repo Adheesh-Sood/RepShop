@@ -62,3 +62,17 @@ button:hover{
     padding-right: 40px;;
 
 }
+.payment{
+    background: lightgray;
+    opacity: 80%;
+    border-radius: 8px;
+}
+#item {
+    font-size:30px;
+    font-family: monospace;
+}
+#item2 , #item3 , #item4 , #item5 , #item6 , #item7 , #item8, #item9 , #item10{
+    font-size:30px;
+    font-family: monospace;
+
+}
